@@ -1,0 +1,17 @@
+.p1 {
+    background: red;
+}
+
+.p2 {
+    background: blue;
+}
+
+.p3 {
+    background: yellow;
+}
+
+.p4 {
+    font-size: 24px;
+    text-shadow: 1px 1px 2px green;
+    text-align: center;
+}
